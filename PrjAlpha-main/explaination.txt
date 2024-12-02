@@ -1,0 +1,27 @@
+for alpha 
+player moves(no animation), 
+a fireball is instantiated and moves in a straight line(no texture on ball),
+very basic box collider for fireball, player and ghost,
+jump motion(no animation, no limit so can spam space key to fly)
+very minimal UI(debug log, it also doesn't work),
+basic environment(texture for ground and a back drop),
+objective(destroy ghost)
+work split
+Pranav
+	asset import
+	environment
+	player movement
+Jithin
+	fireball spawn manager
+	ghost spawn manager
+	box collider
+
+
+plans for beta 
+player movement(animation, including jump),
+fireball( arcade like movement and textures),
+box collider(make it more fun for the user to play)
+smart UI,
+prop work and expanded/fitting environment/play area
+objective(destroy ghost, difficulty increases, powerup to summon skeletons to help)
+		
